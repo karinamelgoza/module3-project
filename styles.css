@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+.favBtns{
+	transform: scale(1.5);
+	background-color: yellow;
+	margin-right: 50px;
+}
+
+.radioOptions{
+	display: inline;
+}

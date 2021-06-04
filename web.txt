@@ -1,0 +1,7 @@
+How does the internet work?
+
+    The internet is a network compiled of smaller networks. These networks can communicate with each other by requesting and sending data. One computer can send a request to another because each computer has a unique ip address. We receive data when we send a request to a server that then sends a response back. Servers have domain names that are assigned to their ip address so it can be easier for users to request data by using urls. 
+
+What happens when you click on a link?
+
+    When you clink on a link, you are essentially sending a request to a server. Your request is sent to a server using an http or https protocol. The hostname of the link you clicked is turned into an ip address that is accessed by the DNS. If the link has a resource then the server knows to only send the resource you requested. 
