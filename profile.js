@@ -15,9 +15,3 @@ function alertRitual() {
     alert('My favorite ritual is listening to music before bed')
 }
 ritual.addEventListener('click', alertRitual)
-
-const random = document.querySelector('#random')
-let randomRes = ['Kabuki', 'Tacos', 'Leos']
-function randomRec() {
-    Math.floor(Math.random() * months.length)
-}
